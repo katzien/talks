@@ -1,12 +1,12 @@
 # Performance optimisation:  how do I GO about it?
 
-How do I know if my program will perform well in production?
-What does it mean to “perform well”?
-How much memory will it need?
-How much traffic can it serve?
-Are there any memory leaks or race conditions?
-What part of processing takes up most of the time?
-Can I optimise it?
+* How do I know if my program will perform well in production?
+* What does it mean to “perform well”?
+* How much memory will it need?
+* How much traffic can it serve?
+* Are there any memory leaks or race conditions?
+* What part of processing takes up most of the time?
+* Can I optimise it?
 
 Every developer should be able to answer those questions about their code. But most of us don’t bother. Why? Because analysing performance is hard and as a result it is often skipped in the development process or ignored until things get really slow. Or we may simply not know where to start. 
 
